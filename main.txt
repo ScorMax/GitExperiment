@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-     printf("Hello world");
-     printf("Life is beautiful and full of sad and touching story!");
-     printf("keep doing and running!");
-     printf("Don't be regretful");
+     printf("Hello world\n");
+     printf("Life is beautiful and full of sad and touching story!\n");
+     printf("keep doing and running!\n");
+     printf("Don't be regretful\n");
      return 0;
 }

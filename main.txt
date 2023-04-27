@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
      printf("Hello world");
-     printf("Life is beautiful and full of story!");
+     printf("Life is beautiful and full of sad story!");
      return 0;
 }
